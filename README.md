@@ -11,6 +11,10 @@ Live Code preview----https://moviefinderwithauth.herokuapp.com/
 
 
 
+For "forget password" check spam mail folder
+
+
+
 1. Project Context - User Story
 
 As a Movieholic we  want to easily find all shows/movies.
